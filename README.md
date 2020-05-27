@@ -33,6 +33,7 @@ Hello,</br>The Dog Filter has a special effect that allows users to place it on 
 
 -	<b>Note:-</b>  
 			i] Press 'q' for Quit.  
+		       ii] Press 's' for Save.
                                                     
 <h3 align="center"> <b>SnapShot of the pages…!!!</b> </h3>  
 
